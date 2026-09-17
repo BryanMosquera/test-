@@ -1,6 +1,6 @@
 /**
  * Data class for testing.
- * @author Javi
+ * @author Javi,Guillermo Holgado
  * 
  * */
 public class Data{
