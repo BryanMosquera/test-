@@ -7,6 +7,8 @@ public class Data{
   public static void main String[]args{
 	  System.out.println("Hola");
 	System.out.println("Ingresa tu nombre");
+	i++;
+
   }
 	private Integer id;
 	public void setId(Integer id){
